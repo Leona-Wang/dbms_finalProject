@@ -1,3 +1,8 @@
 {
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.jdt.ls.java.home":"D:\\jdk-17_windows-x64_bin\\jdk-17.0.11",
+    "java.import.gradle.home":"D:\\gradle-8.7-all\\gradle-8.7",
+    "java.import.gradle.java.home": "D:\\jdk-17_windows-x64_bin\\jdk-17.0.11",
     "java.compile.nullAnalysis.mode": "automatic"
+
 }
